@@ -14,7 +14,7 @@ Nosso foco atual é o desenvolvimento web e este teste mostrará situações rot
 
 - ### OBS.1 Não é necessário fazer todos os testes, faça apenas o que conseguir e não esqueça de fazer Pull Request para este repositório.
 
-- ### OBS.2 Não precisa ser em uma linguagem especifica, você está livre para programar na linguagem que mais tiver confortável.
+- ### OBS.2 Não precisa ser em uma linguagem especifica, você está livre para programar na linguagem que mais estiver confortável.
 
 1. É rotineiro ler códigos de seus colegas, mas não é toda vez que temos um debugger, então o teste de mesa é importante.
 
@@ -51,3 +51,13 @@ Faça um teste de mesa e complete o quadro a seguir para os seguintes valores:
 2. Escreva um algoritmo que leia as idades de 2 homens e de 2 mulheres (considere que as idades dos homens serão sempre diferentes entre si, bem como as das mulheres). Calcule e escreva a soma das idades do homem mais velho com a mulher mais nova, e o produto das idades do homem mais novo com a mulher mais velha. 
 
 3. Escreva um algoritmo que receba dois arrays de inteiros ordenados e retorne um array que seja a união ordenada destes arrays. Desenvolva todo o algoritmo desde a entrada dos vetores até a saída do vetor final, não utilize métodos prontos do tipo sort().
+
+4. Tratamentos de Strings: Escreva um algoritmo que leia um endereço de e-mail e um telefone e censure apartir da segunda letra até a penultima letra do nome deixando o provedor do e-mail legivel, censure o telefone apartir do 3° digito até os dois ultimos. e exiba os dois na mesma linha separados por um hifén.
+
+Ex. entrada: 
+> fulano@gmail.com
+
+> 92345-6789
+
+Ex. Saída:
+> f****o@gmail.com - 92\***-**89

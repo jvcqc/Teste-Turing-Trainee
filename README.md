@@ -16,9 +16,9 @@ Nosso foco atual é o desenvolvimento web e este teste mostrará situações rot
 
 - ### OBS.2 Não precisa ser em uma linguagem especifica, você está livre para programar na linguagem que mais estiver confortável.
 
-- ### OBS.3 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
+- ### OBS.3 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e será uma garantia para o futuro.
 
-### 1. É rotineiro ler códigos de seus colegas, co.
+### 1. É rotineiro ler códigos de seus colegas, mas não é toda vez que temos um debugger, então o teste de mesa é importante.
 
 Conforme o algoritmo abaixo:
 

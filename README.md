@@ -61,7 +61,7 @@ Faça um teste de mesa e complete o quadro a seguir para os seguintes valores:
 
 ---
 
-### 4. (BEE 1009) Faça um programa que leia o seu salário fixo e o total de vendas efetuadas no mês (em dinheiro). Sabendo que você como vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
+### 4. Faça um programa que leia o seu salário fixo e o total de vendas efetuadas no mês (em dinheiro). Sabendo que você como vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
 
 ex: entradas:
 > salario fixo: 500.00

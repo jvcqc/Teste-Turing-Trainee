@@ -64,7 +64,7 @@ Faça um teste de mesa e complete o quadro a seguir para os seguintes valores:
 ex: entradas:
 > salario fixo: 500.00
 
-> vendas em dinheiro: 1230.30
+> vendas efetuadas em dinheiro: 1230.30
 
 ex: saida:
 > Total = R$ 684.54

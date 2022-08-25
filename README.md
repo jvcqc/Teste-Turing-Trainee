@@ -6,7 +6,7 @@ Para se tornar candidato a vaga de Desenvolvedor Trainee, siga com atenção os 
 
 - Faça um Fork neste repositório
 - Adicione uma pasta com seu nome
-- Crie um Readme se apresentando e colocando informações que você achar útil, inclusive para qual time(backend e frontend) deseja entrar.
+- Crie um Readme se apresentando e colocando informações que você achar útil.
 - Faça um Pull Request para o mesmo repositório.
 
 ## Sobre o teste:

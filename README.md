@@ -73,7 +73,7 @@ ex: saida:
 
 ---
 ## Tratamento de Strings:
-### 5. Escreva um algoritmo que leia um endereço de e-mail e um telefone e censure apartir da segunda letra até a penultima letra do nome deixando o provedor do e-mail legivel, censure o telefone apartir do 4° digito até o penultimo. e exiba os dois na mesma linha separados por um hifén.
+### 5. Escreva um algoritmo que leia um endereço de e-mail e um telefone e censure apartir da segunda letra até a penultima letra do nome deixando o provedor do e-mail legivel; Censure o telefone apartir do 4° digito até o penultimo. e exiba os dois na mesma linha separados por um hifén.
 
 Ex. entrada: 
 > fulano@gmail.com

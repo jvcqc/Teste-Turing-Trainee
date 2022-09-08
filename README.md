@@ -44,11 +44,11 @@ Faça um teste de mesa e complete o quadro a seguir para os seguintes valores:
 
 | X   | Y  | Z | Resposta |
 |-----|----|---|----------|
-| 3   | 2  |   |          |
-| 150 | 3  |   |          |
-| 7   | -1 |   |          |
-| -2  | 5  |   |          |
-| 50  | 3  |   |          |
+| 3   | 2  | 11|B         |
+| 150 | 3  |450|C         |
+| 7   | -1 |-2 |A         |
+| -2  | 5  |-5 |A         |
+| 50  | 3  |155|C         |
 
 ---
 ## Lógica:

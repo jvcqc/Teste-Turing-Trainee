@@ -82,3 +82,10 @@ Ex. entrada:
 
 Ex. Saída:
 > f***\*o@gmail.com - 923\**-***9
+
+# Observações
+Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
+### Grupo no Whatsapp para duvidas
+https://chat.whatsapp.com/IMUZdYpmvPr51tnicpsHoE
+
+# Vamo Codar! <3

@@ -89,3 +89,5 @@ Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para ap
 https://chat.whatsapp.com/IMUZdYpmvPr51tnicpsHoE
 
 # Vamo Codar! <3
+
+Olá, me chamo João Victor Correia, sou natural de Fortaleza/CE e estou cursando o 1º semestre de Bacharelado em Sistemas da Informação. Tudo no curso é novidade para mim pois venho de uma graduação em Ciências Contábeis e acredito que a possibilidade de ser trainee me ajudará bastante a aprender e conhecer mais da área e com o que eu irei trabalhar.
